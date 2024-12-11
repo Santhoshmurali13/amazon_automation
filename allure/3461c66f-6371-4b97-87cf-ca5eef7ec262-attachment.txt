@@ -1,0 +1,9 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Red Tape
+Bacca Bucci
+verify item name
+(//button[text()='Add to cart'])[2]
+<selenium.webdriver.remote.webelement.WebElement (session="30cedd489c0ba53d63f7f10b6a2c6af4", element="f.C7BC0AEAF2C51FCDC47D3FDB76397AC3.d.2163526FFBFFB83F24E03469960651D4.e.494")>
+item Clicked

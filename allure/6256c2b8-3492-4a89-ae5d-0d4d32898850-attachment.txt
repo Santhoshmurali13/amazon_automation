@@ -1,0 +1,82 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Bacca Bucci
+Bacca Bucci
+Bacca Bucci
+OFF LIMITS
+ASIAN
+BRUTON
+BRUTON
+ATHCO
+DOCTOR EXTRA SOFT
+ASIAN
+JQR
+POWER
+ATHCO
+Reebok
+BRUTON
+SPARX
+ASIAN
+Campus
+BRUTON
+Puma
+Bata
+Campus
+Bata
+Campus
+LANCER
+ASIAN
+ASIAN
+ASIAN
+DOCTOR EXTRA SOFT
+ASIAN
+ASIAN
+AADI
+Nike
+BRUTON
+SPARX
+ASIAN
+ASIAN
+Campus
+ASIAN
+Doctor Walk
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[41]
+<selenium.webdriver.remote.webelement.WebElement (session="bf0199dfc90bffd444b98bb23ea76a8a", element="f.7CC2FCF9AA67ECB0F4598378B0FBC685.d.132F1A28AA74F4741F9908C6FE763055.e.482")>
+item Clicked
+Campus
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[43]
+<selenium.webdriver.remote.webelement.WebElement (session="bf0199dfc90bffd444b98bb23ea76a8a", element="f.7CC2FCF9AA67ECB0F4598378B0FBC685.d.132F1A28AA74F4741F9908C6FE763055.e.484")>
+item Clicked
+Zixer
+ASIAN
+Liberty
+BRUTON
+ASIAN
+SPARX
+ASIAN
+U.S. POLO ASSN.
+BRUTON
+SPARX
+BRUTON
+Amico
+SPARX
+ASIAN
+Campus
+Puma
+Puma
+Bata
+ASIAN
+ASIAN
+Bacca Bucci
+ASIAN
+ASIAN
+DOCTOR EXTRA SOFT
+ATHCO
+DOCTOR EXTRA SOFT
+XTEP
+XTEP

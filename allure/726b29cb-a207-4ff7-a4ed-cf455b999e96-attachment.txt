@@ -1,0 +1,3 @@
+initiating chrome driver
+amazon application is launched Successfully
+cart page is displayed

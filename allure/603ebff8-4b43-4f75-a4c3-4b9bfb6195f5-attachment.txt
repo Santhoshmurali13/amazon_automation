@@ -1,0 +1,48 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Bacca Bucci
+Bacca Bucci
+OFF LIMITS
+Bacca Bucci
+ASIAN
+BRUTON
+BRUTON
+ATHCO
+DOCTOR EXTRA SOFT
+adidas
+JQR
+POWER
+Reebok
+BRUTON
+SPARX
+ASIAN
+Campus
+BRUTON
+ATHCO
+Bata
+Puma
+Bata
+Campus
+LANCER
+ASIAN
+Campus
+DOCTOR EXTRA SOFT
+Corstyle
+Action
+ASIAN
+ASIAN
+AADI
+Nike
+BRUTON
+ASIAN
+ASIAN
+Doctor Walk
+SPARX
+ASIAN
+Campus
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[41]
+<selenium.webdriver.remote.webelement.WebElement (session="1d6b7848158c36a5c841d5ac177f203c", element="f.3B65E6EEAF3E40C1FAE81A08131F7B6E.d.90A4F1FE3239214E7C0AFFF49FA17320.e.510")>
+item Clicked

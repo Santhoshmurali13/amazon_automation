@@ -1,0 +1,6 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Red Tape
+verify item name
+(//button[@id='a-autoid-3-announce'])[2]

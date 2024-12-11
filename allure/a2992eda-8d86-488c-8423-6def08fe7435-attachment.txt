@@ -1,0 +1,8 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Bacca Bucci
+verify item name
+(//button[text()='Add to cart'])[1]
+<selenium.webdriver.remote.webelement.WebElement (session="4dd20a746bc3e3c53888a55bf4633787", element="f.A8E4B529EE0540A9F76549B6990C808A.d.53A6A05261E1D5CBE7BE1229BB08F38E.e.494")>
+item Clicked

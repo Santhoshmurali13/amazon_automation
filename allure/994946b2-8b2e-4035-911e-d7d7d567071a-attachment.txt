@@ -1,0 +1,8 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f5650b36f624690561ff1acf027c10f3", element="f.96E0C95DC82736BC1D2E1AFF6BBF90E7.d.AC391E547ADE0361C0BC7B60D7097260.e.506")>
+item Clicked

@@ -1,0 +1,120 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[2]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.484")>
+item Clicked
+Bacca Bucci
+Bacca Bucci
+OFF LIMITS
+ASIAN
+BRUTON
+BRUTON
+ATHCO
+DOCTOR EXTRA SOFT
+ASIAN
+POWER
+Bourge
+ATHCO
+Reebok
+BRUTON
+SPARX
+ASIAN
+Campus
+BRUTON
+Puma
+Bata
+Campus
+Bata
+Campus
+LANCER
+ASIAN
+ASIAN
+ASIAN
+DOCTOR EXTRA SOFT
+Action
+ASIAN
+AADI
+Nike
+BRUTON
+SPARX
+ASIAN
+ASIAN
+Campus
+ASIAN
+Doctor Walk
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+(//button[text()='Add to cart'])[42]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.503")>
+Campus
+Red Tape
+verify item name
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+(//button[text()='Add to cart'])[44]
+<selenium.webdriver.remote.webelement.WebElement (session="bbf62ae5175b147af1dfd3bc61ca4520", element="f.29066DB5B6112A71586F55A0D50FE730.d.0542EA0FE33BC5964CF607551FAEC88E.e.514")>
+Zixer
+ASIAN
+Liberty
+BRUTON
+ASIAN
+SPARX
+ASIAN
+U.S. POLO ASSN.
+BRUTON
+SPARX
+BRUTON
+Amico
+SPARX
+ASIAN
+Campus
+Puma
+Puma
+Bata
+ASIAN
+ASIAN
+ASIAN
+Bacca Bucci
+ASIAN
+DOCTOR EXTRA SOFT
+ATHCO
+DOCTOR EXTRA SOFT
+XTEP
+XTEP

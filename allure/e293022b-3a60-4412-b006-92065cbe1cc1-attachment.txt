@@ -1,0 +1,68 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Red Tape
+Red Tape
+Red Tape
+Red Tape
+ASIAN
+BRUTON
+BRUTON
+ATHCO
+DOCTOR EXTRA SOFT
+ASIAN
+adidas
+JQR
+Reebok
+BRUTON
+SPARX
+ASIAN
+Campus
+Bata
+ATHCO
+BRUTON
+Puma
+Campus
+Bata
+LANCER
+ASIAN
+Campus
+Red Tape
+Red Tape
+Red Tape
+Red Tape
+ASIAN
+AADI
+ASIAN
+BRUTON
+ASIAN
+SPARX
+Doctor Walk
+ASIAN
+Campus
+Red Tape
+Zixer
+Red Tape
+Campus
+Nike
+BRUTON
+Liberty
+Nike
+ASIAN
+SPARX
+ASIAN
+ASIAN
+BRUTON
+BRUTON
+U.S. POLO ASSN.
+ASIAN
+SPARX
+Amico
+Puma
+Bata
+Campus
+Puma
+Reebok
+Bacca Bucci
+verify item name
+(//button[text()='Add to cart'])[63]

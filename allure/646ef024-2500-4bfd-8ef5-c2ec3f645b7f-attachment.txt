@@ -1,0 +1,37 @@
+initiating chrome driver
+amazon application is launched Successfully
+Comfortable & Stylish Shoes for Men
+Red Tape
+Red Tape
+Red Tape
+Red Tape
+ASIAN
+BRUTON
+BRUTON
+ATHCO
+DOCTOR EXTRA SOFT
+JQR
+POWER
+Bourge
+ATHCO
+Reebok
+BRUTON
+SPARX
+ASIAN
+Campus
+BRUTON
+Puma
+Bata
+Campus
+Bata
+LANCER
+Campus
+ASIAN
+Red Tape
+Red Tape
+Red Tape
+Bacca Bucci
+verify item name
+(//button[text()='Add to cart'])[30]
+<selenium.webdriver.remote.webelement.WebElement (session="3a6d04e876037445681db126af5365e1", element="f.5C7DA108691629D69F577F0AA5F6CC24.d.8912C2C2E73C7498F867E07232C77406.e.505")>
+item Clicked
